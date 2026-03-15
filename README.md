@@ -1,8 +1,3 @@
-import json
-import os
-from datetime import datetime
-
-DATA_FILE = "expenses.json"
 
 categories = [
     "Food",
@@ -136,3 +131,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+# expense-tracker-py
+A Python CLI application to track daily expenses, analyze spending, set budgets, and export reports.
+>>>>>>> 68d70b28dd0133ca8308a4c1027d2cf059b98152
